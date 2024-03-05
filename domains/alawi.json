@@ -1,0 +1,17 @@
+{
+    "description": "Personal blog github page",
+
+    "domain": "is-cool.dev",
+    "subdomain": "alawi",
+
+    "owner": {
+        "repo": "https://github.com/AlawiAlQurashi/web",
+        "email": "alawialqurshi@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "https://alawialqurashi.github.io/web/"
+    },
+
+    "proxied": false
+}
